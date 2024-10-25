@@ -1,0 +1,17 @@
+	Treatment
+SY_C1	Control
+SY_C2	Control
+SY_C3	Control
+SY_C4	Control
+SY_N1	Nematodes
+SY_N2	Nematodes
+SY_N3	Nematodes
+SY_N4	Nematodes
+SY_P1	Pochonia
+SY_P2	Pochonia
+SY_P3	Pochonia
+SY_P4	Pochonia
+SY_PN1	FungiNematode
+SY_PN2	FungiNematode
+SY_PN3	FungiNematode
+SY_PN4	FungiNematode
